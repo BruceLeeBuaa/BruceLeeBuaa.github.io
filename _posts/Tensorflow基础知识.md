@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Tensorflow基础知识
+subtitle:   tensorflow基本语法详解
+date:       2020-3-7
+author:     hero
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - iOS
+    - 定时器
+---
 ## Tensorflow基础知识
 
 ###### 数据类型
